@@ -5,7 +5,7 @@ import { ExpoLinksView } from '@expo/samples';
 export default function LinksScreen() {
   return (
     <ScrollView style={styles.container}>
-
+      <a>This is sample text for now</a>
     </ScrollView>
   );
 }
