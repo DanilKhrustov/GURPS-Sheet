@@ -6,6 +6,14 @@ export default function LinksScreen() {
   return (
     <ScrollView style={styles.container}>
       <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
     </ScrollView>
   );
 }

@@ -1,13 +1,18 @@
-import React from 'react';
-import { ScrollView, StyleSheet, Text } from 'react-native';
-import { ExpoConfigView } from '@expo/samples';
+import React from "react";
+import { ScrollView, StyleSheet, Text } from "react-native";
+import { ExpoConfigView } from "@expo/samples";
 
 export default function SettingsScreen() {
   return (
-    <Text>asasd</Text>
-  )
+    <ScrollView>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+      <Text>This is sample text for now</Text>
+    </ScrollView>
+  );
 }
 
 SettingsScreen.navigationOptions = {
-  title: 'app.json',
+  title: "app.json"
 };
