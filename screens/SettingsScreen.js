@@ -6,9 +6,7 @@ export default function SettingsScreen() {
   return (
     <ScrollView>
       <Text>This is sample text for now</Text>
-      <Text>This is sample text for now</Text>
-      <Text>This is sample text for now</Text>
-      <Text>This is sample text for now</Text>
+
     </ScrollView>
   );
 }
